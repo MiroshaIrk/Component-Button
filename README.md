@@ -1,2 +1,2 @@
-# component
-- [button](https://miroshairk.github.io/components/)
+# component button
+- [animated button](https://miroshairk.github.io/components/)
